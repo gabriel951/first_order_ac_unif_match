@@ -1,0 +1,12 @@
+# ignore pvsbin
+pvsbin/
+PVSBIN/
+
+# ignore files .pvs~
+*~
+orphaned-proofs.prf
+*.txt
+
+# ignore folder names
+names/*
+.vscode/
